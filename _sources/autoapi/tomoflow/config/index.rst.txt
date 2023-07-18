@@ -1,0 +1,15 @@
+:py:mod:`tomoflow.config`
+=========================
+
+.. py:module:: tomoflow.config
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   main/index.rst
+
+

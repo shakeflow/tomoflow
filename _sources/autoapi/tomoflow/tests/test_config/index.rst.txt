@@ -1,0 +1,15 @@
+:py:mod:`tomoflow.tests.test_config`
+====================================
+
+.. py:module:: tomoflow.tests.test_config
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   test_main/index.rst
+
+
